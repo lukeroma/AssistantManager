@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home_icon"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/team_builder"
+        android:icon="@drawable/pitch_icon"
+        android:title="Team Builder" />
+
+    <item
+        android:id="@+id/fixtures"
+        android:icon="@drawable/calender_icon"
+        android:title="Fixtures" />
+
+    <item
+        android:id="@+id/players"
+        android:icon="@drawable/player_icon"
+        android:title="Players" />
+
+</menu>

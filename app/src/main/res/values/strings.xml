@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assistant Manager</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="positions_array">
+        <item>Goalkeeper</item>
+        <item>Defender</item>
+        <item>Midfielder</item>
+        <item>Winger</item>
+        <item>Striker</item>
+    </string-array>
+</resources>
